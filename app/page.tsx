@@ -1,0 +1,13 @@
+import React from 'react'
+import {Button} from "@/components/ui/button";
+
+const Page = () => {
+  return (
+    <div>
+      <h1 className="text-2xl underline">Welcome to liliane Saas! hopefully u love it </h1>
+     <Button > Let's start !</Button>
+    </div>
+  )
+}
+
+export default Page
